@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
-<img src="https://www.pinterest.com/pin/126663808259169541/" align="right"> width="400"
+<img src="https://www.pinterest.com/pin/126663808259169541/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djavier02&label=Profile%20views&color=0e75b6&style=flat" alt="djavier02" /> </p>
 
